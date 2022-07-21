@@ -50,7 +50,7 @@ GEM
     slop (3.6.0)
     thread_safe (0.3.6)
     ttfunk (1.5.1)
-    tzinfo (1.2.3)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
 
 PLATFORMS
